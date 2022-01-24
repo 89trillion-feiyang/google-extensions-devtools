@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "version": "1.0.0",
+    "short_name": "DevTools",
+    "name": "DevTools",
+    "description": "DevTools",
+    "icons": {
+        "128": "logo.png"
+    },
+    "permissions": [
+    ],
+    "browser_action": {
+        "default_icon": "logo.png",
+        "default_popup": "index.html"
+    },
+    "offline_enabled": true
+}
